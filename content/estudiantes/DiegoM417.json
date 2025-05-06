@@ -1,0 +1,38 @@
+{
+    "name":"Diego Molina",
+    "aboutMe":"Soy [Diego Molina], un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando [8] en [Unellez]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [ Electronica, Matenimiento de Equipos, Sistemas, Desarrolo de aplicaciones].",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "C++"
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"Estudiante",
+            "since":2021,
+            "description":"Estudiante de Ingeneria Informatica "
+        }
+    ],
+    "projects":[
+        {
+            "title":"Bachiller en Ciencias",
+            
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/arnaldoperez",
+        "icon":"mdiGithub"
+        }
+    ]
+}
